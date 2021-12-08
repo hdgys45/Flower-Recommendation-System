@@ -2,7 +2,7 @@
 	$conn = mysqli_connect(
   		'localhost', 
   		'root',
-		'as010890',
+		'',
   		'flower');
 		  echo '<h1>Database</h1>';
 
