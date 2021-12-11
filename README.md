@@ -9,6 +9,7 @@
 
 ### 1.2. 개발언어 및 소프트웨어
 ```
+사용 운영체제 : Windows
 웹: html, javascript, css, php
 데이터 크롤링: python
 데이터 베이스: MYSQL
@@ -98,3 +99,33 @@ phpinfo();
 3. Apache24\htdocs 폴더에 아까 복사한 파일을 넣는다.
 4. Apache2.4가 켜져있는 상황에서 인터넷 브라우저를 통하여 "localhost/index.html"을 입력하면 사용 가능하다.
 ```
+
+5.연락처
+-----------
+팀장 : 황인성(hdgys1026@naver.com)
+팀원 : 이동철(ehdcjf4874@daum.net)
+       이성호(fihh8250@naver.com)
+       
+6.라이센스
+-----------
+MIT License
+
+Copyright (c) 2021 hdgys45
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
